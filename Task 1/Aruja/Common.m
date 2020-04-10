@@ -1,1 +1,1 @@
-disp("Hello, world! \n Welcome to the Git Session");
+disp("Hello, Aruja! \n Welcome to the Git Session");
